@@ -1,0 +1,39 @@
+body, html {
+    margin:0;
+    padding:0;
+    width: 100vw;
+    height: 100%;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+h1 {
+    margin: 3rem;
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+h2 {
+    margin: 3rem;
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 2vw;
+    line-height: 1.8;
+    letter-spacing: -0.01rem;
+}
+
+.definition-container {
+    margin: 3rem;
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 1vw;
+    line-height: 1.8;
+}
+
+.word {
+    font-weight: 500;
+}

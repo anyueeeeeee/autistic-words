@@ -1,0 +1,14 @@
+{
+  "name": "another_server",
+  "version": "1.0.0",
+  "description": "this is another server based on homework videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anyue",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
